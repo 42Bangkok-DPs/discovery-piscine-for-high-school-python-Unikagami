@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 age = input("please tell me your age : ")
 print("you are currently " + age + " years old")
 converted_age = int(age)
