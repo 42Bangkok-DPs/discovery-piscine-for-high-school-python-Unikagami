@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 number = int(input("input ypur number" ))
 if number <0 :
     print("this number is negative")
