@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 first_number = int(input("enter the first number : "))
 second_number = int(input("enter the second number : "))
 # multiply the variables
