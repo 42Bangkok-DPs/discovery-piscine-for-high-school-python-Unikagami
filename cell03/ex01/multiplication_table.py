@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 number = int(input("Enter the number : "))
 for n in range (1,13) :
     result = number * n
