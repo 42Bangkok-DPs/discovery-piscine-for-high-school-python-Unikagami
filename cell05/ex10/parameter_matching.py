@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 word = input("what was the parameter?   ")
 program = "Hello"
 if word == program :
