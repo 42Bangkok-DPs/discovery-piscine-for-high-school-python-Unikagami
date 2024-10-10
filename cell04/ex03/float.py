@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 number = input("give me a number : ")
 
 if number == str(float(number)) :
